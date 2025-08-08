@@ -1,0 +1,4 @@
+# Sensitive files to be stored in .getignore
+config.json
+server-url.txt
+# Add more files as needed
