@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Sensitive files
+config.json
+server-url.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ignore .getignore folder
+.getignore/
