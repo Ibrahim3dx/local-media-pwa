@@ -1,0 +1,3 @@
+([('LocalMediaServer.exe',
+   'C:\\Users\\Ibrahim\\Desktop\\local-media-pwa\\dist\\LocalMediaServer.exe',
+   'EXECUTABLE')],)
